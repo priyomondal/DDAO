@@ -1,5 +1,4 @@
-Force of Attraction-Based Distribution Calibration
-for Enhancing Minority Class Representation
+Force of Attraction-Based Distribution Calibration for Enhancing Minority Class Representation
 
 This methods generates synthetic samples using the statistics of the majority and the lower majority class samples.
 
@@ -17,5 +16,4 @@ Pytorch 2.0.1
 
 - run sample_generation_dataset.py (mention the dataset)
 
-- run classification.py
-
+- run classification.py (write the name of the dataset and the path for the oversampled and validation data)
